@@ -5,7 +5,7 @@
 [Demo Link](https://www.youtube.com/watch?v=i_phRIS7DYs)
 
 ## Deploy
-[Deploy Link](https://wp1101finaltest.herokuapp.com/)
+[Deploy Link](https://bongo-cha-cha.herokuapp.com/)
 
 ## Introduction
 Bongo is a facebook-like online social media which provide a platform for users to interact with each other. 
