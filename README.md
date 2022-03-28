@@ -32,7 +32,7 @@ Bongo is a facebook-like online social media which provide a platform for users 
 
 ## Software Architecture
 
-### Frontend:
+### Frontend
 ```
 .
 └── index.js
@@ -54,7 +54,7 @@ Bongo is a facebook-like online social media which provide a platform for users 
                 └── room.js
 ```                
 
-### Backend:
+### Backend
 ```
 .
 └── server.js
