@@ -11,19 +11,19 @@
 Bongo is a facebook-like online social media which provide a platform for users to interact with each other. 
 
 ## Main function
-* Users `sign up` and `log in`.
-* Backend `password encryption` by bcrypt.
-* Frontend `save user_id` by local storage.
-* Allow users to `stay logged in`.
-* Can `send friend request`、`accept friend request` or `reject friend request`.
-* Can `write post`、`edit post` or `delete post`.
-* Can `like`、`unlike`、`comment` or `uncomment` on post.
-* Support three post modes: **public / friends / private**
-* Can `create chatroom`、`add room members` and `customize room name` or `leave chatroom`.
-* Can `send message` or `delete message` in chatroom.
-* Support three chatroom types: **self / one2one / many2many**
-* Support `new message informing`、`chatroom switching` and `notifications`.
-* Can `update info`、`upload profile picture` or `visit someone's homepage`.
+* Users **sign up** and **log in**.
+* Backend **password encryption** by bcrypt.
+* Frontend **save user_id** by local storage.
+* Allow users to **stay logged in**.
+* Can **send friend request**、**accept friend request** or **reject friend request**.
+* Can **write post**、**edit post** or **delete post**.
+* Can **like**、**unlike**、**comment** or **uncomment** on post.
+* Support three post modes: **public**、**friends** and  **private**
+* Can **create chatroom**、**add room members** and **customize room name** or **leave chatroom**.
+* Can **send message** or **delete message** in chatroom.
+* Support three chatroom types: **self**、**one2one** and **many2many**
+* Support **new message informing**、**chatroom switching** and **notifications**.
+* Can **update info**、**upload profile picture** or **visit someone's homepage**.
 
 ## Framework/Packages
 * **Frontend:** React, apollo, Material-UI, Ant Design, uuid, moment, react-router-dom, graphql, moment, Cookie, XML
