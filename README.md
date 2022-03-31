@@ -18,10 +18,10 @@ Bongo is a facebook-like online social media which provide a platform for users 
 * Can **send friend request**、**accept friend request** or **reject friend request**.
 * Can **write post**、**edit post** or **delete post**.
 * Can **like**、**unlike**、**comment** or **uncomment** on post.
-* Support three post modes:  **public**、**friends** and  **private**.
+* Support three post modes: **public**、**friends** and  **private**.
 * Can **create chatroom**、**add room members** and **customize room name** or **leave chatroom**.
 * Can **send message** or **delete message** in chatroom.
-* Support three chatroom types:  **self**、**one2one** and **many2many**.
+* Support three chatroom types: **self**、**one2one** and **many2many**.
 * Support **new message informing**、**chatroom switching** and **notifications**.
 * Can **update info**、**upload profile picture** or **visit someone's homepage**.
 
