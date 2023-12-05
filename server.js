@@ -15,9 +15,9 @@ import { fileURLToPath } from "url";
 // import Subscription from "./backend/resolvers/Subscription.js";
 // import mongo from "./backend/mongo.js";
 // import apiRoute from "./backend/route/api.js";
-import connectMongoDB from './backend/mongo.js';
-import db from './backend/models.js';
-import { resolvers } from './backend/resolvers.js';
+import connectMongoDB from "./backend/mongo.js";
+import db from "./backend/models.js";
+import { resolvers } from "./backend/resolvers.js";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const port = process.env.PORT || 80;
