@@ -3,6 +3,9 @@
   "type": "module",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "12.22.12"
+  },
   "dependencies": {
     "@apollo/client": "^3.3.6",
     "@apollo/react-hooks": "^4.0.0",
