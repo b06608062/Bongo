@@ -8,7 +8,7 @@
 
 ## Deploy
 
-[Deploy Link](...)
+[Deploy Link](https://bongo-bc6dee61a17f.herokuapp.com)
 
 ## Introduction
 
